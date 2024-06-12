@@ -8,3 +8,5 @@ p3terx/aria2-pro
 adguard/adguardhome
 frooodle/s-pdf
 chishin/nginx-proxy-manager-zh
+archivebox
+file-search
